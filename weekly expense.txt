@@ -1,0 +1,8 @@
+Week,1
+Food,100
+Transportation,75
+Movies,15
+Week,2
+Food,100
+Transportation,100
+Entertainments,100

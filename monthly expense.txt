@@ -1,0 +1,5 @@
+Month,December 15
+Food,200
+Transportation,150
+Entertainment,300
+Bills,600

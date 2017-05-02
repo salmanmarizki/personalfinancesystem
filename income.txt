@@ -1,0 +1,2 @@
+Month,June 15
+Salary,5000
